@@ -1,0 +1,10 @@
+complete collection document stats 1.6.2018
+
+1058789 words
+1436 pages
+59295 lines
+1547 paragraphs
+5335660 characters (with spaces)
+4277742 characters (with no spaces)
+1.21 megabytes (1273872 bytes in size)
+1.21 megabytes (1277952 bytes on disk)
