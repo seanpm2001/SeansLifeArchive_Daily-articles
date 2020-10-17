@@ -1,0 +1,7 @@
+complete collection document stats 12.20.2017
+
+words
+pages
+lines
+paragraphs
+c

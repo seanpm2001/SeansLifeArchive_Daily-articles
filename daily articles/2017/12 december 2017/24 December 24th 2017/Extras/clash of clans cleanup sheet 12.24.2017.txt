@@ -1,0 +1,40 @@
+clash of clans cleanup sheet 12.24.2017
+
+gem box (1x)
+gem box 1000 elixir, 25 gems, 3 xp
+total: 1000 elixir, 25 gems, 3 xp
+
+bush (2x)
+1. bush 250 elixir, 6 gems, 3 xp
+2. bush 250 elixir, 0 gems, 3 xp
+total: 500 elixir, 6 gems, 6 xp
+
+mushroom (2x)
+1. mushroom 100 elixir, 4 gems, 3 xp
+2. mushroom 100 elixir 5 gems, 3 xp
+total: 200 elixir, 9 gems, 6 xp
+
+big tree (1x)
+big tree 7500 elixir, 1 gem
+total: 7500 elixir, 1 gem, 3 xp
+
+tree (2x)
+1. tree 2000 elixir, 3 gems, 3 xp
+2. tree 2000 elixir, 2 gems, 3 xp
+total: 4000 elixir, 5 gems, 6 xp
+
+trunk (6x)
+1. trunk 1000 elixir, 0 gems, 3 xp
+2. trunk 1000 elixir, 0 gems, 3 xp
+3. trunk 1000 elixir, 5 gems, 3 xp
+4. trunk 1000 elixir, 1 gem, 3 xp
+5. trunk 1000 elixir, 0 gems, 3 xp
+6. trunk 1000 elixir, 3 gems, 3 xp
+7. trunk 1000 elixir, 4 gems, 3 xp, 
+total: 7000 elixir, 13 gems, 21 xp
+
+total:
+20200 elixir
+59 gems
+45 xp
+
