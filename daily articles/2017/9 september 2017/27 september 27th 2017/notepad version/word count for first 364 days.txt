@@ -1,0 +1,8 @@
+word count for first 364 days
+
+pages: 937
+words: 668451
+characters (no spaces): 2689878
+characters (with spaces): 3357726
+paragraphs: 1134
+lines: 38261
