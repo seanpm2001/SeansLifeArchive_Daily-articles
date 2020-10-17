@@ -1,0 +1,70 @@
+Gem Log August 17th 2017
+Clash of Clans (coc)
+Main village
+
+1 gem box = -1000 elixir = 25 gems, 3 xp 30 seconds
+total time: 30 seconds
+total elixir used: 1000
+total gems: 25
+total xp: 3
+
+1 giant tree= -10000 elixir = 1 gem, 3 xp
+total time: 15 seconds
+total elixir used: 10000
+total gems: 1
+total xp: 3
+
+1 big tree = -7500 elixir = 0 gems, 3 xp 15 seconds
+total time: 15 seconds
+total elixir used: 7500
+total gems: 0
+total xp: 3
+
+6 trees = -12000 elixir = gems, 18 xp 
+tree 1: -2000 elixir, 3 gems, 3 xp 10 seconds
+tree 2: -2000 elixir, 4 gems, 3 xp 10 seconds
+tree 3: -2000 elixir, 0 gems, 3 xp 10 seconds
+tree 4: -2000 elixir, 0 gems, 3 xp 10 seconds
+tree 5: -2000 elixir, 5 gems, 3 xp 10 seconds
+tree 6: -2000 elixir, 0 gems, 3 xp 10 seconds
+total time: 1 minute
+total elixir used: 12000
+total gems: 12
+total xp: 18
+
+5 bushes = -1250 elixir = gems, 15 xp
+bush 1: -250 elixir, 1 gem, 3 xp 10 seconds
+bush 2: -250 elixir, 0 gems, 3 xp 10 seconds
+bush 3: -250 elixir, 6 gems, 3 xp 10 seconds
+bush 4: -250 elixir, 0 gems, 3 xp 10 seconds
+bush 5: -250 elixir, 4 gems, 3 xp 10 seconds
+total time: 50 seconds
+total elixir used: 1250
+total gems: 11
+total xp: 15
+
+6 trunks = -6000 elixir = gems, 18 xp
+trunk 1: -1000 elixir, 5 gems, 3 xp 10 seconds
+trunk 2: -1000 elixir, 1 gem, 3 xp 10 seconds
+trunk 3: -1000 elixir, 3 gems, 3 xp 10 seconds
+trunk 4: -1000 elixir, 2 gems, 3 xp 10 seconds
+trunk 5: -1000 elixir, 0 gems, 3 xp 10 seconds
+trunk 6: -1000 elixir, 0 gems, 3 xp 10 seconds
+total time: 1 minute
+total elixir used: 6000
+total gems: 11
+total xp: 18
+
+3 mushrooms = -300 elixir = gems, 9 xp
+mushroom 1: -100 elixir, 5 gems, 3 xp 10 seconds
+mushroom 2: -100 elixir, 1 gem, 3 xp 10 seconds
+mushroom 3: -100 elixir, 0 gems, 3 xp 10 seconds
+total time: 30 seconds
+total elixir used: 300
+total gems: 6
+total xp: 9
+
+Total elixir used: 38050
+Total XP earned: 69
+Total Gems Earned: 66
+total time: 4 minutes 20 seconds
