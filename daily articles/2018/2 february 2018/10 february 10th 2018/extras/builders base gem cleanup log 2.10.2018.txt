@@ -1,0 +1,154 @@
+builders base cleanup log 2.10.2018
+
+tree (11x)
+tree 1: 
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+tree 2:
+cost: 2000 elixir
+reward: 3 xp, 1 gem
+tree 3:
+cost: 2000 elixir
+reward: 3 xp, 2 gems
+tree 4:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+tree 5:
+cost: 2000 elixir
+reward: 3 xp, 1 gem
+tree 6:
+cost: 2000 elixir
+reward: 3 xp, 1 gem
+tree 7:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+tree 8:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+tree 9:
+cost: 2000 elixir
+reward: 3 xp, 3 gems
+tree 10:
+cost: 2000 elixir
+reward: 3 xp, 1 gem
+tree 11:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+total cost: 22000 elixir
+total reward: 33 xp, 9 gems
+
+small trees (7x)
+small tree 1:
+cost: 2000 elixir
+reward: 3 xp, 3 gems
+small tree 2:
+cost: 2000 elixir
+reward: 3 xp, 4 gems
+small tree 3:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+small tree 4:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+small tree 5:
+cost: 2000 elixir
+reward: 3 xp, 5 gems
+small tree 6:
+cost: 2000 elixir
+reward: 3 xp, 0 gems
+small tree 7:
+cost: 2000 elixir
+reward: 3 xp, 1 gem
+small tree total
+cost: 14000 elixir
+reward: 21 xp, 13 gems
+
+big trees (10x)
+big tree 1:
+cost: 10000 elixir
+reward: 3 xp, 0 gems
+big tree 2:
+cost: 10000 elixir
+reward: 3 xp, 3 gems
+big tree 3:
+cost: 10000 elixir
+reward: 3 xp, 0 gems
+big tree 4:
+cost: 10000 elixir
+reward: 3 xp, 1 gem
+big tree 5:
+cost: 10000 elixir
+reward: 3 xp, 2 gems
+big tree 6:
+cost: 10000 elixir
+reward: 3 xp, 0 gems
+big tree 7:
+cost: 10000 elixir
+reward: 3 xp, 1 gem
+big tree 8:
+cost: 10000 elixir
+reward: 3 xp, 1 gem
+big tree 9: 
+cost: 10000 elixir
+reward: 3 xp, 0 gems
+big tree 10:
+cost: 10000 elixir
+reward: 3 xp, 0 gems
+total 
+cost: 100000 elixir
+reward: 30 xp, 8 gems
+
+mushrooms
+mushroom1:
+cost: 100 elixir
+reward: 3 xp, 3 gems
+mushroom2:
+cost: 100 elixir
+reward: 3 xp, 1 gem
+mushroom3:
+cost: 100 elixir
+reward: 3 xp, 0 gems
+mushroom4:
+cost: 100 elixir
+reward: 3 xp, 2 gems
+mushroom5:
+cost: 100 elixir
+reward: 3 xp, 2 gems
+total
+cost: 500 elixir
+reward: 15 xp, 8 gems
+
+tree stump (5x)
+tree stump1:
+cost: 500 elixir
+reward: 3 xp, 0 gems
+tree stump2:
+cost: 500 elixir
+reward: 3 xp, 0 gems
+tree stump3:
+cost: 500 elixir
+reward: 3 xp, 3 gems
+tree stump4:
+cost: 500 elixir
+reward: 3 xp, 0 gems
+tree stump5:
+cost: 500 elixir
+reward: 3 xp, 1 gem
+total
+cost: 2500 elixir
+reward: 15 xp, 4 gems
+
+trunk
+trunk1:
+cost: 1000 elixir 
+reward: 3 xp, 0 gems
+trunk2:
+cost: 1000 elixir
+reward: 3 xp, 3 gems
+total: 
+cost: 4000 elixir
+reward: 6 xp, 3 gems
+
+all time total
+cost: 143000 elixir
+reward: 120 xp, 45 gems

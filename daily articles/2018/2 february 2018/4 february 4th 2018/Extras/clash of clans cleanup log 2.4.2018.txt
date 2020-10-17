@@ -1,0 +1,48 @@
+clash of clans cleanup log 2.4.2018
+
+gem box (1x)
+cost: 1000 elixir 
+reward: 3 xp, 25 gems
+gem box total: 3 xp, 25 gems
+gem box total cost: 1000 elixir 
+
+tree (4x)
+1. cost: 1000 elixir 
+reward: 3 xp, 5 gems
+2. cost: 1000 elixir
+total: 3 xp, 0 gems
+3. cost: 1000 elixir
+total: 3 xp, 1 gem
+4. cost: 1000 elixir
+total: 3 xp, 0 gems
+tree total: 12 xp, gems
+tree total cost: 4000 elixir
+
+bush (2x)
+1. cost: 250 elixir
+reward: 3 xp, 6 gems
+2. cost: 250 elixir
+reward: 3 xp, 0 gems
+bush total: 6 xp, gems
+bush total cost: 500 elixir
+
+mushroom (2x)
+1. cost: 100 elixir
+reward: 3 xp, 0 gems
+2. cost: 100 elixir
+reward: 3 xp, 0 gems
+mushroom total: 6 xp, 0 gems
+mushroom total cost: 200 elixir
+
+trunk (3x)
+1. cost: 1000 elixir
+reward: 3 xp, 4 gems
+2. cost: 1000 elixir
+reward: 3 xp, 5 gems
+3. cost: 1000 elixir
+reward: 3 xp, 1 gem
+trunk total: 9 xp, gems
+trunk total cost: 3000 elixir
+
+total cost: 8700 elixir
+reward total: 36 xp, 47 gems
