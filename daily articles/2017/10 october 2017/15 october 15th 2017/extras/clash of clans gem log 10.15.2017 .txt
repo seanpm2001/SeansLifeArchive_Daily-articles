@@ -1,0 +1,55 @@
+clash of clans gem log october 15th 2017
+
+gem box 1x
+
+1: 1000 elixir = 25 gems & 3 xp
+elixir spent: 1000 
+xp earned: 3
+gems earned: 25
+
+bush 4x
+
+1: 250 elixir = 3 gems & 3 xp
+2: 250 elixir = 4 gems & 3 xp
+3: 250 elixir = 0 gems & 3 xp
+4: 250 elixir = 0 gems & 3 xp
+elixir spent: 1000
+xp earned: 12
+gems earned: 7
+
+trunk 8x
+
+1: 1000 elixir = 5 gems & 3 xp
+2: 1000 elixir = 0 gems & 3 xp
+3: 1000 elixir = 1 gem & 3 xp
+4: 1000 elixir = 0 gems & 3 xp
+5: 1000 elixir = 6 gems & 3 xp
+6: 1000 elixir = 0 gems & 3 xp
+7: 1000 elixir = 4 gems & 3 xp
+8: 1000 elixir = 5 gems & 3 xp
+elixir spent: 8000
+xp earned: 24
+gems earned: 25
+
+mushroom 3x 
+
+1: 100 elixir = 1 gem & 3 xp
+2: 100 elixir = 3 gems & 3 xp
+3: 100 elixir = gems & 3 xp
+elixir spent: 300
+xp earned: 9
+gems earned: 
+
+tree 2x
+
+1: 2000 elixir = 0 gems & 3 xp
+2: 2000 elixir = 0 gems & 3 xp
+elixir spent: 4000
+xp earned: 6
+gems earned: 0
+
+total:
+
+elixir spent: 14300
+xp earned: 18x3 = 54
+gems earned: 66
