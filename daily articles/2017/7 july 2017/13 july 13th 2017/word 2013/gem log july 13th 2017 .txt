@@ -1,0 +1,99 @@
+gem box
+25 gems     
+3 xp
+
+big tree 1
+0 gems
+3 xp
+
+trunk 1
+0 gems
+3 xp
+
+trunk 2 
+5 gems 
+3 xp
+
+trunk 3
+1 gems
+3 xp
+
+trunk 4 
+0 gems
+3 xp
+
+trunk 5
+3 gems
+3 xp
+
+trunk 6
+4 gems
+3 xp
+
+trunk 7
+0 gems
+3 xp
+
+trunk 8
+0 gems
+3 xp
+
+trunk 9
+5 gems
+3 xp
+
+tree 1
+0 gems
+3 xp
+
+tree 2
+1 gem
+3 xp
+
+tree 3
+0 gems
+3 xp
+
+bush 1
+6 gems
+3 xp
+
+bush 2
+0 gems
+3 xp
+
+bush 3
+4 gems
+3 xp
+
+bush 4 
+5 gems
+3 xp
+
+mushroom 1
+1 gem
+3 xp
+
+mushroom 2
+3 gems
+3 xp
+
+mushroom 3
+2 gems
+3 xp
+
+mushroom 4
+0 gems
+3 xp
+
+mushroom 5
+0 gems
+3 xp
+
+mushroom 6
+5 gems
+3 xp
+
+
+
+
