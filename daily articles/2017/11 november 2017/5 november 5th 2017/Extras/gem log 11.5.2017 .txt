@@ -1,0 +1,50 @@
+gem log 11.5.2017
+
+(1x) gem box
+1 1000 elixir, 25 gems, 3 xp
+total elixir spent: 1000
+total gems earned: 25
+total xp earned: 3
+
+(4x) tree
+1 2000 elixir, 5 gems, 3 xp
+2 2000 elixir, 1 gem, 3 xp
+3 2000 elixir, 3 gems, 3 xp
+4 2000 elixir, 2 gems, 3 xp
+total elixir spent: 8000
+total gems earned: 11
+total xp earned: 12
+
+(7x) trunk
+1 1000 elixir, 0 gems, 3 xp
+2 1000 elixir, 0 gems, 3 xp
+3 1000 elixir, 5 gems, 3 xp
+4 1000 elixir, 1 gem, 3 xp
+5 1000 elixir, 0 gems, 3 xp
+6 1000 eliixr, 3 gems, 3 xp
+7 1000 elixir, 4 gems, 3 xp
+total elixir spent: 7000
+total gems earned: 10
+total xp earned: 21
+
+(4x) mushroom
+1 100 elixir, 0 gems, 3 xp
+2 100 elixir, 0 gems, 3 xp
+3 100 elixir, 5 gems, 3 xp
+4 100 elixir, 0 gems, 3 xp
+total elixir spent: 400
+total gems earned: 5
+total xp earned: 12
+
+(2x) bush
+1 250 elixir, 1 gem, 3 xp
+2 250 elixir, 0 gems, 3 xp
+total elixir spent: 500
+total gems earned: 1
+total xp earned: 6
+
+TOTAL
+
+total elixir spent: 16900
+total gems earned:
+total xp earned: 45
