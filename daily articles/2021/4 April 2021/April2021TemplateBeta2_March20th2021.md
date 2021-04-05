@@ -1,0 +1,76 @@
+# April 2021 template beta 2 March 20th 2021
+## Table of contents
+    1. today
+    2. End of day (outro)
+    3. End of today’s document
+    4. Overnight notes (phone) last night (for reference) – The notes from yesterday
+    5. morning notes (laptop)
+    6. morning notes (phone)
+    7. afternoon notes (laptop)
+    8. afternoon notes (phone)
+    9. evening/mid-day notes (laptop)
+    10. evening/mid-day notes (phone)
+    11. overnight notes (laptop)
+    12. overnight notes (phone)
+#### Words total (see: end of day)
+// This section is hardly ever filled out
+## Today 
+Today is DoW, April X 2021. Yesterday was DoW, April X 2021. I woke up at : am to
+
+### Morning notes (laptop)
+None… yet?
+
+### Afternoon notes (laptop)
+None… yet?
+
+### Evening/mid day notes (laptop)
+None… yet?
+
+### Overnight notes (laptop)
+# Note: overnight notes should not be confused for nighttime notes, the 2 concepts are similar, but at the moment, nighttime notes don’t exist. You would be looking for the after 5:00-10:00 pm section of the evening notes for that (depending on what time of the year it is)
+None… yet?
+
+I worked on my journaling from yesterday (DoW, April x 2021) from pm up until pm while I listened to | then I copy and pasted it into the April 2021 compilation document, then I wrote about my day from today (DoW, April x 2021) from pm up until pm while I listened to | Next I took a screenshot of my desktop (Since I take daily screenshots of my desktop) here is the one from today:
+
+Next I got onto Khan Academy, then I worked on subject >>>> >>> >> > on Khan Academy from pm up until pm. I watched 1 video (from pm up until pm) and read 1 article (from pm up until pm) the videos duration was [duration, min. and sec.] I didn’t earn any badges today. I earned full energy points again today. Next I took a screenshot of my profile page, then I
+
+###Duplicated for ease of use, delete previous if not used before KA session. Do not remove this header, it declares a part 2 to the evening notes. Only delete if secondary evening notes are not needed
+### Evening/mid day notes (laptop)
+None… yet?
+
+### Overnight notes (laptop)
+# Note: overnight notes should not be confused for nighttime notes, the 2 concepts are similar, but at the moment, nighttime notes don’t exist. You would be looking for the after 5:00-10:00 pm section of the evening notes for that (depending on what time of the year it is)
+None… yet?
+
+I eventually fell asleep at | a/pm. Please note the time I fell asleep is an estimate based on past patterns and how tired I feel at the last note update of the night. I had a [term] day with my journaling today, getting over 0,935 words, and over 05,365 characters. The size of the journal may be a lot larger than reported, due to overnight notes, and in-document note copies. This will raise the document size by 500 words to 8000 words (the notes should be prioritized to be cut if they are more than double the amount of notes than the document itself) There are 03 pages in today’s document according to LibreOffice writer. Note that “how good” of a day I had with my journaling depends on the word and character counts. Other document qualities rely on different measurements
+Note reference and outro start below here:
+### Overnight notes (phone) – last night (for reference)
+Insert here/None available
+### Morning notes (laptop)
+Insert here/None available
+### Morning notes (phone)
+Insert here/None available
+### Afternoon notes (laptop)
+Insert here/None available
+### Afternoon notes (phone)
+Insert here/None available
+### Evening/Mid-day notes (laptop)
+Insert here/None available
+### Evening/Mid-day notes (phone)
+Insert here/None available
+### Overnight notes (laptop)
+Insert here/None available
+### Overnight notes (phone)
+Insert here/None available
+### End of day (outro)
+Outro removed on October 1st 2020, no longer necessary, as I have my journaling more under control
+ (PLEASE READ OUTRO TO LEARN IMPORTANT INFO ABOUT TODAYS DOCUMENT) Outro is obsolete. Some references may remain, but you should always read previous documents first. Don’t take content out of context.
+Also, make sure to read overnight and daytime notes as well for more context, along with associated dates of new image, video, and other media data, such as screenshots, reddit, camera, and more.
+This journal is a very advanced structure, but strives for accuracy.
+Daily journaling started on September 27th 2016, entries before then are backed up with date data, and don’t cover everything yet, I am still working on archiving older data.
+Images aren’t spammed in journaling since the December 28th 2018 document, as it became excessive. This was the worst issue in December of 2018.
+This journal is a complex structure. Make sure to read all documents, notes, and search for mentioned files to get the full context.
+Outro updates are made at the beginning of each month, so check for updates on the 1st, then you don’t have to read it again for the rest of the month, it will just be there (January 2020 and above) the external outro has been abandoned as of February 18th 2019. 
+Plot holes are very rare. If any come up, I will fill them, as I hate clusters of holes
+As of 2020, I no longer fully document everything directly in the journal. I link to sources within the resources of the journaling package. When instructed, visit the sources for more info. This is done to save time and reduce document size (before this, documents were on average 20+ pages with over 30 megabytes in size each. The average is now 11-18 pages with less than 2 megabytes.
+# End of today’s document
