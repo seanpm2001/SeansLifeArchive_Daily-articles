@@ -1,0 +1,206 @@
+.para6 {
+  border-bottom: 1.05pt double #000000;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin:  0px 0px 0px 0px;
+}
+
+.para5 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para4 {
+  margin:  0.0835in 0px 0.0835in 0px;
+}
+
+.para3 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para2 {
+  margin:  0.0000in 0.0000in 0.1110in 0.5000in;
+  text-indent: 0.0000in;
+}
+
+.para1 {
+  margin:  0.0280in 0px 0.0000in 0px;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0000in 0px;
+}
+
+.span22 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span17 {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span18 {
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  text-decoration:  underline;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span16 {
+  color: #3465a4;
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span15 {
+  font-family: 'Liberation Sans';
+  font-size: 95.0000%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.span21 {
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: normal;
+  position: relative;
+  text-decoration:  underline;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span20 {
+  font-style: italic;
+  font-weight: normal;
+  text-decoration:  underline;
+}
+
+.span14 {
+  font-style: italic;
+}
+
+.span0 {
+  background-color: #729fcf;
+  color: #2e74b5;
+  font-effect: outline;
+  font-family: 'Calibri Light';
+  font-size: 16.0000pt;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span1 {
+  background-color: #729fcf;
+  color: #2e74b5;
+  font-effect: outline;
+  font-family: 'Calibri Light';
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  text-decoration:  underline;
+  text-shadow: 1px 1px 1px #666666;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span7 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+}
+
+.span3 {
+  background-color: #729fcf;
+  color: #000080;
+  text-decoration:  underline;
+}
+
+.span2 {
+  background-color: #ffff00;
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span6 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span4 {
+  background-color: #81d41a;
+  color: #ffffff;
+}
+
+.span12 {
+  background-color: #ffff00;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.span19 {
+  font-family: 'Franklin Gothic Medium';
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span8 {
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span13 {
+  background-color: #ffff00;
+  font-size: 0.58em;
+  font-style: normal;
+  font-weight: bold;
+  position: relative;
+  top: 0.33em;
+  vertical-align: baseline;
+}
+
+.span5 {
+  color: #3465a4;
+}
+
+.span11 {
+  background-color: #ffff00;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.span9 {
+}
+
+.span10 {
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
