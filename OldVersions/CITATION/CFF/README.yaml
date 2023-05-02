@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this project (article set) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 Life Archive journaling/daily articles collection"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2020-10-13 # Day the repository was created
+url: "https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/"
+cff-version: 1.2.0
+message: "If you use this project (article set), please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 Life Archive journaling/daily articles collection"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2023-01-05 # Day the citation fle was created
+url: "https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Seanpm2001 Life Archive journaling/daily articles collection"
+  month: 3
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "The collection of the main journaling documents of the Seanpm2001 Life Archive project. Initially started on a daily basis since 2016, September 27th, it attempts to scope from the beginning of my life (2001, March 21st) to the present. Currently, it is planned to be released in full on 2040, May 14th, for now, the structure and its templates are available for public viewing."
+  issue: 1
+  volume: 1
+  year: 2001
+# File info
+# File version: 1 (2023, Thursday, January 5th at 4:17 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
