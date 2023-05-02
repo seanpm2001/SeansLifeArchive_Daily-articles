@@ -1,4 +1,5 @@
 /.github/
+/.gitlab/
 /Docs/
 /External/
 /OldVersions/
@@ -15,15 +16,18 @@
 /404.jpeg
 /404.md
 /AUTHORS
+/AUTHORS.md
 /AUTOMATE2001.yaml
 /AUTOMATE2001.yml
 /CITATION.cff
 /CONTRIBUTING.md
 /COPYINGL
 /CREDITS
+/CREDITS.wiki
 /DRM-free_label.en.svg
 /ENVIRONMENTAL_WARNING.md
 /INSTALL
+/INSTALL.rst
 /K.desktop
 /LICENSE-GPL.css
 /LICENSE-GPL.j
