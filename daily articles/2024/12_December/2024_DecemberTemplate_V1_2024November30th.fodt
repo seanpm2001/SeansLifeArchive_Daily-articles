@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2024-11-30T15:34:35.217362819</meta:creation-date><dc:date>2024-11-30T15:45:48.839217849</dc:date><meta:editing-duration>PT12S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="6" meta:paragraph-count="152" meta:word-count="1282" meta:character-count="7887" meta:non-whitespace-character-count="6568"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50458</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">25111</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16434</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2925</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50456</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">25109</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">876547</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">755930</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Calibri Light" svg:font-family="&apos;Calibri Light&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Franklin Gothic Medium" svg:font-family="&apos;Franklin Gothic Medium&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="1" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:font-name="Calibri Light" fo:font-family="&apos;Calibri Light&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="16pt" style:font-name-asian="Calibri" style:font-family-asian="Calibri" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="16pt" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Standard" style:default-outline-level="2" style:list-style-name="" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.028in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:keep-together="always" fo:keep-with-next="always"/>
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:font-name="Calibri Light" fo:font-family="&apos;Calibri Light&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="13pt" style:font-name-asian="Calibri" style:font-family-asian="Calibri" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="13pt" style:font-name-complex="Tahoma" style:font-family-complex="Tahoma" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="List_20_Paragraph" style:display-name="List Paragraph" style:family="paragraph" style:parent-style-name="Standard" style:default-outline-level="">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.111in" style:contextual-spacing="true" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="4" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="95%" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="95%" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="95%" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Visited_20_Internet_20_Link" style:display-name="Visited Internet Link" style:family="text">
+   <style:text-properties fo:color="#800000" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="ListLabel_20_1" style:display-name="ListLabel 1" style:family="text"/>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="WWNum1">
+   <text:list-level-style-number text:level="1" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" loext:num-list-format="%2%." style:num-suffix="." style:num-format="a" style:num-letter-sync="true">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" loext:num-list-format="%3%." style:num-suffix="." style:num-format="i">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.1252in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" loext:num-list-format="%5%." style:num-suffix="." style:num-format="a" style:num-letter-sync="true">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" loext:num-list-format="%6%." style:num-suffix="." style:num-format="i">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.1252in" fo:margin-left="3in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="3.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" loext:num-list-format="%8%." style:num-suffix="." style:num-format="a" style:num-letter-sync="true">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.25in" fo:margin-left="4in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" loext:num-list-format="%9%." style:num-suffix="." style:num-format="i">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" fo:text-indent="-0.1252in" fo:margin-left="4.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0015cabe" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:rsid="0007c1e0" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="US" fo:text-shadow="1pt 1pt" fo:font-weight="bold" officeooo:paragraph-rsid="000b88da" fo:background-color="#ffff00" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00254f5a" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00154fb6" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000a59d9" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00194a0c" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000a59d9" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0004a40a" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001780e5" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" officeooo:rsid="00194a0c" officeooo:paragraph-rsid="000b88da" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00154fb6" officeooo:paragraph-rsid="000b88da" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" officeooo:rsid="00120a64" officeooo:paragraph-rsid="000b88da" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" officeooo:rsid="001a1df9" officeooo:paragraph-rsid="000b88da" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00194a0c" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="001ecdca" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0014b15b" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000decc6" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000c931e" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0003aca3" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001d39bd" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001fe66b" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000fa15c" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00104249" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00127a8d" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties style:border-line-width-bottom="0.0047in 0.0047in 0.0047in" fo:padding-left="0in" fo:padding-right="0in" fo:padding-top="0in" fo:padding-bottom="0.0291in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="1.05pt double #000000" style:join-border="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00137793" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001b822b" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001ecdca" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001ecdca" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="000c1711" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0011033b" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#ffffff" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:paragraph-rsid="000b88da" fo:background-color="#81d41a"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="00158787" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000ec838" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="00143446" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" style:text-outline="true" fo:language="en" fo:country="US" fo:text-shadow="1pt 1pt" officeooo:rsid="000ec838" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" style:text-outline="false" fo:language="en" fo:country="US" fo:text-shadow="none" officeooo:rsid="000e2304" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:text-outline="false" fo:text-shadow="none" officeooo:rsid="000ec838" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000decc6" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0003aca3" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00154fb6" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00194a0c" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="001f860d" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001d39bd" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="000b88da" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:rsid="001b822b" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00154fb6" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+   <style:text-properties officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+   <style:text-properties officeooo:rsid="0015d1d3" officeooo:paragraph-rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum1">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ecdca" officeooo:paragraph-rsid="000b88da" fo:background-color="#729fcf"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="001e9777" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e96d2" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00119df5" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00074973" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000ec838" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="0016f270" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000b88da" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00189727" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="001d3645" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00158787" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000ec838" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="0% 100%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000b88da" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="super 58%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e588f" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#2e74b5" loext:opacity="100%" style:text-outline="true" style:text-position="super 58%" style:font-name="Calibri Light" fo:font-size="16pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="1pt 1pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000b88da" fo:background-color="#729fcf" loext:char-shading-value="0" style:font-name-asian="Calibri" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001d8159" fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f860d" fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="00154fb6" fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="001f860d" fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f607e"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001e9777"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000e96d2"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001471a7"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00143446"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00064980"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001a832a"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0010f103"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0006ac8a"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0014f5a5"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000c931e"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000ec838"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001ecdca"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000a59d9"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000bc49d"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0016980a"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001b822b"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0004a40a"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000dd14f"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0000ee83"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000c1711"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000fb09f"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001a1df9"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00158787"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00194a0c"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00181359"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00153119"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000c57a7"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0010909d"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001d6526"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001778fe"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00016e55"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001b48d6"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="002181b2"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001c42e6"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000e2304"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0011033b"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00232a4a"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001f4f57"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001fc6da"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001fcb8a"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0011196b"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00119df5" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e96d2" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e2304" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="001d3645" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000fb466" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="0016ab20" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000b88da" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000d1d1f" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:background-color="#729fcf" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties officeooo:rsid="001d173d"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties officeooo:rsid="000b7cd2"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties officeooo:rsid="00143446"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:language="en" fo:country="US" officeooo:rsid="00143446"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:language="en" fo:country="US" officeooo:rsid="001ecdca"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:language="en" fo:country="US" officeooo:rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties style:text-position="super 58%" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00156e8e" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T87" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" fo:background-color="#ffff00" loext:char-shading-value="0"/>
+  </style:style>
+  <style:style style:name="T88" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="0009d36d"/>
+  </style:style>
+  <style:style style:name="T89" style:family="text">
+   <style:text-properties fo:color="#3465a4" loext:opacity="100%" style:text-position="super 58%" fo:language="en" fo:country="US" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T90" style:family="text">
+   <style:text-properties fo:text-shadow="1pt 1pt"/>
+  </style:style>
+  <style:style style:name="T91" style:family="text">
+   <style:text-properties fo:text-shadow="1pt 1pt" officeooo:rsid="0011033b"/>
+  </style:style>
+  <style:style style:name="T92" style:family="text">
+   <style:text-properties officeooo:rsid="00181359"/>
+  </style:style>
+  <style:style style:name="T93" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:language="en" fo:country="US" officeooo:rsid="000e96d2"/>
+  </style:style>
+  <style:style style:name="T94" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:language="en" fo:country="US" officeooo:rsid="000b88da"/>
+  </style:style>
+  <style:style style:name="T95" style:family="text">
+   <style:text-properties officeooo:rsid="001ecdca"/>
+  </style:style>
+  <style:style style:name="T96" style:family="text">
+   <style:text-properties officeooo:rsid="0007c1e0"/>
+  </style:style>
+  <style:style style:name="T97" style:family="text">
+   <style:text-properties officeooo:rsid="000c57a7"/>
+  </style:style>
+  <style:style style:name="T98" style:family="text">
+   <style:text-properties officeooo:rsid="001905a8"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
+   <style:text-properties officeooo:rsid="0014b15b"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties officeooo:rsid="0003aca3"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties officeooo:rsid="000c1711"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties officeooo:rsid="000c931e"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties officeooo:rsid="001f607e"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties officeooo:rsid="00158787"/>
+  </style:style>
+  <style:style style:name="T105" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T106" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e1cb5" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T107" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000fa590" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T108" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="0012ee52" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T109" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00158787" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T110" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="00156e8e" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T111" style:family="text">
+   <style:text-properties style:font-name="Franklin Gothic Medium" fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000e1cb5" style:font-style-asian="italic" style:font-weight-asian="bold"/>
+  </style:style>
+  <style:style style:name="T112" style:family="text">
+   <style:text-properties officeooo:rsid="000b88da"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:h text:style-name="P56" text:outline-level="1"><text:span text:style-name="T1">202</text:span><text:span text:style-name="T2">4 </text:span><text:span text:style-name="T7">December</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T4">Template beta </text:span><text:span text:style-name="T5">1</text:span><text:span text:style-name="T4"> –</text:span><text:span text:style-name="T1"> 20</text:span><text:span text:style-name="T6">2</text:span><text:span text:style-name="T2">4</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T12">November</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T12">30</text:span><text:span text:style-name="T14">th</text:span><text:span text:style-name="T10"> <text:s text:c="18"/></text:span><text:span text:style-name="T11"><text:s text:c="35"/></text:span><text:span text:style-name="T13"><text:s text:c="50"/></text:span></text:h>
+   <text:h text:style-name="P3" text:outline-level="2">Table of contents <text:s text:c="89"/></text:h>
+   <text:list xml:id="list1794315246" text:style-name="WWNum1">
+    <text:list-item>
+     <text:p text:style-name="P61"><text:a xlink:type="simple" xlink:href="#Today |outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T16">Today</text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Morning (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Early afternoon (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Mid afternoon (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Late afternoon (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Early evening (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Mid evening (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Late evening (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Early nighttime (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P62">Nighttime (subject)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#_End_of_day" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T16">End of day (outro)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#_End_of_today’s" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T16">End of today’s document</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.1.Overnight notes (phone) – last night (for reference)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T72">Overnight notes (phone) last night (for reference)</text:span></text:span></text:a><text:span text:style-name="Internet_20_link"><text:span text:style-name="T17"> – </text:span></text:span><text:span text:style-name="Internet_20_link"><text:span text:style-name="T18">The notes from yesterday</text:span></text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.1.Morning notes (laptop)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">morning notes (laptop)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.2.Morning notes (phone)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">morning notes (phone)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.3.Afternoon notes (laptop)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">afternoon notes (laptop)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.4.Afternoon notes (phone)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">afternoon notes (phone)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.6.Evening/Mid-day notes (laptop)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T20">evening/</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="#0.0.0.6.Evening/Mid-day notes (laptop)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">mid-day notes (laptop)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.7.Evening/Mid-day notes (phone)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T20">evening/</text:span></text:span></text:a><text:a xlink:type="simple" xlink:href="#0.0.0.7.Evening/Mid-day notes (phone)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">mid-day notes (phone)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.7.Overnight notes (laptop)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">overnight notes (laptop)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P60"><text:a xlink:type="simple" xlink:href="#0.0.0.8.Overnight notes (phone)|outline" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="Internet_20_link"><text:span text:style-name="T19">overnight notes (phone)</text:span></text:span></text:a></text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P40">#### Words total <text:span text:style-name="T73">(see: end of day)</text:span></text:p>
+   <text:p text:style-name="P43">// <text:span text:style-name="T74">This section is hardly ever filled out</text:span></text:p>
+   <text:p text:style-name="P43">// <text:span text:style-name="T75">I intend to have links to different journal entries on the “today” “yesterday”and “tomorrow” slots that help jump from 1 document to another.</text:span></text:p>
+   <text:p text:style-name="P41">| <text:span text:style-name="T77">Ebook mode (default)</text:span> | <text:span text:style-name="T76">Webpage mode (coming soon)</text:span> |</text:p>
+   <text:p text:style-name="P41">An important decision is in progress, for now, the compromise is to split the journaling into 2 styles: ebook mode and webpage mode. Webpage mode is currently coming soon.</text:p>
+   <text:p text:style-name="P42">Flag history:</text:p>
+   <text:p text:style-name="P45">🇺🇦️ UKRAINE (UK) – 2022 May 4<text:span text:style-name="T78">th</text:span> - Present</text:p>
+   <text:p text:style-name="P45">❓️Other/none</text:p>
+   <text:p text:style-name="P47"><text:span text:style-name="T85">Flag history</text:span><text:span text:style-name="T84"> was added in the </text:span><text:span text:style-name="T85">2022 June 1</text:span><text:span text:style-name="T89">st</text:span><text:span text:style-name="T84"> template. The </text:span><text:span text:style-name="T87">🇺🇦️ </text:span><text:span text:style-name="T86">Ukrainian flag</text:span><text:span text:style-name="T84"> in the document title isn’t going anywhere anytime soon (even after the war ends, it will still be there for a while) </text:span><text:span text:style-name="T88">PDF versions will not display these Emojis due to limitations with the PDF format</text:span></text:p>
+   <text:p text:style-name="P46">Template note: Most of this template is overwritten during the journal process.</text:p>
+   <text:p text:style-name="P46">Remember to save a revision after each day</text:p>
+   <text:h text:style-name="P4" text:outline-level="2"><text:span text:style-name="T90">Toda</text:span><text:span text:style-name="T91">y (lead)</text:span></text:h>
+   <text:p text:style-name="P8">For first usage of <text:span text:style-name="T92">th</text:span>e month</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T21">Today is </text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T63">Sunday</text:span><text:span text:style-name="T24">, </text:span><text:span text:style-name="T63">December </text:span><text:span text:style-name="T25">1</text:span><text:span text:style-name="T79">st</text:span><text:span text:style-name="T21">. </text:span><text:span text:style-name="T26">Yesterday was 202</text:span><text:span text:style-name="T27">4,</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T63">Saturday</text:span><text:span text:style-name="T28">,</text:span><text:span text:style-name="T93"> </text:span><text:span text:style-name="T94">November 30</text:span><text:span text:style-name="T81">th</text:span><text:span text:style-name="T29">.</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T30">Tomorrow is 202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T30">, </text:span><text:span text:style-name="T63">Monday</text:span><text:span text:style-name="T31">,</text:span><text:span text:style-name="T32"> </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T33"> 2</text:span><text:span text:style-name="T80">nd</text:span><text:span text:style-name="T33">.</text:span></text:p>
+   <text:p text:style-name="P8">For <text:span text:style-name="T92">th</text:span>e rest of <text:span text:style-name="T92">th</text:span>e month</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T34">Today is 202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T30">,</text:span><text:span text:style-name="T34"> DoW, </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T35"> </text:span><text:span text:style-name="T34">X. Yesterday was 202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T36">,</text:span><text:span text:style-name="T34"> DoW, </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T34"> X. Tomorrow is 202</text:span><text:span text:style-name="T23">4,</text:span><text:span text:style-name="T34"> DoW, </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T25"> </text:span><text:span text:style-name="T34">X.</text:span></text:p>
+   <text:h text:style-name="P32" text:outline-level="2"><text:soft-page-break/>Morning :<text:span text:style-name="T95"> &lt;subject&gt;</text:span></text:h>
+   <text:p text:style-name="P10">I woke up at <text:span text:style-name="T96">xx</text:span>:<text:span text:style-name="T96">xx</text:span> am to </text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P38">Woke up at</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Morning pills am</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Breakfast</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Laptop booted up at around am</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Resource downloads</text:p>
+   <text:p text:style-name="P38">Overnight notes, Firefox tab document, game session data</text:p>
+   <text:p text:style-name="P38">Current war maps (Ukraine, Sudan, Palestine, Lebanon)</text:p>
+   <text:p text:style-name="P38"/>
+   <text:h text:style-name="P34" text:outline-level="2"><text:span text:style-name="T97">A</text:span>fternoon : &lt;subject&gt;</text:h>
+   <text:p text:style-name="P38">Afternoon pills pm</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Game time</text:p>
+   <text:p text:style-name="P38"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Game summary</text:h>
+   <text:h text:style-name="P57" text:outline-level="4">Monday</text:h>
+   <text:p text:style-name="P38">Tiny Tower</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Tuesday</text:h>
+   <text:p text:style-name="P38">Bit City</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Wednesday</text:h>
+   <text:p text:style-name="P38">Disco Zoo</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Thursday</text:h>
+   <text:p text:style-name="P38">Lego Tower</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Friday</text:h>
+   <text:p text:style-name="P38">Tiny Death Star</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Saturday</text:h>
+   <text:p text:style-name="P38">AdVenture Communist (AdCom)</text:p>
+   <text:p text:style-name="P38">Adventure Capitalist (AdCap)</text:p>
+   <text:h text:style-name="P57" text:outline-level="4">Sunday</text:h>
+   <text:p text:style-name="P38">Clash of Clans</text:p>
+   <text:p text:style-name="P38">Boom Beach</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Calendar export</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Wayback Machine crawl of main GitHub profile</text:p>
+   <text:p text:style-name="P38"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P38">GitHub fork part B (@seanwallawalla) work</text:p>
+   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P38">Wayback Machine crawl of second GitHub profile</text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P30">GitHub fork part A (@seanpm2001) work</text:p>
+   <text:p text:style-name="P11"/>
+   <text:h text:style-name="P34" text:outline-level="2"><text:span text:style-name="T97">E</text:span>vening : &lt;subject&gt;</text:h>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P30">GitHub finalizations</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30">Bookmark export</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30">Tab video</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P30">File sorting</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30">Daily Desktop Screenshot (DDS)</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P30">System log export</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30">To-do list export</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P30">Preparing to start journal</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P9">For first usage of the month</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T37">I worked on my journaling from yesterday </text:span><text:span text:style-name="T38">(</text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T27">4</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T63">Saturday</text:span><text:span text:style-name="T39">,</text:span><text:span text:style-name="T40"> </text:span><text:span text:style-name="T63">November 30</text:span><text:span text:style-name="T81">th</text:span><text:span text:style-name="T41">)</text:span><text:span text:style-name="T37"> from pm up until pm. </text:span><text:span text:style-name="T41">Next</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T37">I copy and pasted it into th</text:span><text:span text:style-name="T43">e </text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T27">4</text:span><text:span text:style-name="T44"> </text:span><text:span text:style-name="T63">November</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T37">compilation document. </text:span><text:span text:style-name="T45">The monthly document is now complete. Here are the stats f</text:span><text:span text:style-name="T44">or </text:span><text:span text:style-name="T63">November</text:span><text:span text:style-name="T44">:</text:span></text:p>
+   <text:p text:style-name="P13">Insert image here</text:p>
+   <text:p text:style-name="P18">And here are <text:span text:style-name="T92">th</text:span>e properties:</text:p>
+   <text:p text:style-name="P13">Insert image here</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P9">For the rest of the month</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T37">I worked on my journaling from yesterday </text:span><text:span text:style-name="T38">(</text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T35">DOW, </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T35">x</text:span><text:span text:style-name="T38">)</text:span><text:span text:style-name="T37"> from pm up until pm, </text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T37">en I copy and pasted it into th</text:span><text:span text:style-name="T43">e </text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T23">4</text:span><text:span text:style-name="T47">, </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T44"> </text:span><text:span text:style-name="T37">compilation document. </text:span><text:span text:style-name="T48">Next</text:span><text:span text:style-name="T37"> I wrote about my day from today </text:span><text:span text:style-name="T38">(</text:span><text:span text:style-name="T22">202</text:span><text:span text:style-name="T23">4,</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T34">DoW,</text:span><text:span text:style-name="T28"> </text:span><text:span text:style-name="T63">December</text:span><text:span text:style-name="T49"> </text:span><text:span text:style-name="T35">x</text:span><text:span text:style-name="T38">)</text:span><text:span text:style-name="T37"> from pm up until pm while I listened to </text:span></text:p>
+   <text:p text:style-name="P19"/>
+   <text:h text:style-name="P34" text:outline-level="2"><text:span text:style-name="T97">N</text:span>ighttime : <text:s/>&lt;subject&gt;</text:h>
+   <text:p text:style-name="P35"/>
+   <text:h text:style-name="P36" text:outline-level="2">Mid nighttime : &lt;subject&gt;<text:span text:style-name="T95"> &lt;</text:span>optional&gt;</text:h>
+   <text:p text:style-name="P48">Woke up at</text:p>
+   <text:p text:style-name="P48">Out of bed</text:p>
+   <text:p text:style-name="P48">Pills am</text:p>
+   <text:p text:style-name="P48"/>
+   <text:p text:style-name="P49">Laptop booted am</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P21">Finalizations</text:p>
+   <text:p text:style-name="P21"><text:soft-page-break/>Playlists <text:span text:style-name="T98">1-</text:span><text:span text:style-name="T99">3 </text:span>exported <text:span text:style-name="T99">pm</text:span></text:p>
+   <text:p text:style-name="P21">VLC Media Player end of day screenshots</text:p>
+   <text:p text:style-name="P21">Laptop shut down % battery <text:span text:style-name="T100">p</text:span>m</text:p>
+   <text:h text:style-name="P34" text:outline-level="2"><text:span text:style-name="T97">Late n</text:span>ighttime : &lt;subject&gt; &lt;<text:span text:style-name="T101">optional&gt;</text:span></text:h>
+   <text:p text:style-name="P7"/>
+   <text:h text:style-name="P37" text:outline-level="2">Very late nighttime: &lt;subject&gt; &lt;optional&gt;</text:h>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P30">Overnight notes</text:p>
+   <text:p text:style-name="P30"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Sta<text:span text:style-name="T112">tionary (NUNIX ManuType)</text:span></text:h>
+   <text:p text:style-name="P39">Coming soon</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P50"><text:span text:style-name="T15">I eventually fell asleep at </text:span><text:span text:style-name="T38">|</text:span><text:span text:style-name="T15"> </text:span><text:span text:style-name="T38">a/</text:span><text:span text:style-name="T15">pm. </text:span><text:span text:style-name="T50">P</text:span><text:span text:style-name="T51">lease note the time I fell asleep is an estimate based on past patterns and how tired I feel at the last note update of the night. </text:span><text:span text:style-name="T52">I had a [</text:span><text:span text:style-name="T53">rating</text:span><text:span text:style-name="T54">]</text:span><text:span text:style-name="T52"> day wi</text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T52"> my journaling today, getting over </text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T55">,</text:span><text:span text:style-name="T63">28</text:span><text:span text:style-name="T56">0</text:span><text:span text:style-name="T48"> </text:span><text:span text:style-name="T52">words, and over </text:span><text:span text:style-name="T63">7</text:span><text:span text:style-name="T52">,</text:span><text:span text:style-name="T63">88</text:span><text:span text:style-name="T57">5</text:span><text:span text:style-name="T58"> </text:span><text:span text:style-name="T52">characters. </text:span><text:span text:style-name="T46">Th</text:span><text:span text:style-name="T59">e size of the journal may be a lot larger </text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T59">an reported, due to overnight notes, and in-document note copies. </text:span><text:span text:style-name="T46">Th</text:span><text:span text:style-name="T59">is will raise the document size by 500 words to 8000 words (the notes should be prioritized to be cut if </text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T59">ey are more </text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T59">an double the amount of notes </text:span><text:span text:style-name="T46">th</text:span><text:span text:style-name="T59">an the document itself) </text:span><text:span text:style-name="T52">There are </text:span><text:span text:style-name="T60">0</text:span><text:span text:style-name="T63">6</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T52">pages in today’s document according to LibreOffice writer. </text:span><text:span text:style-name="T61">Note that “how good” of a day I had with my journaling depends on the word and character counts. </text:span><text:span text:style-name="T54">Other document qualities rely on different measurements</text:span></text:p>
+   <text:p text:style-name="P51"><text:span text:style-name="T54">R</text:span><text:span text:style-name="T15">atings of journaling </text:span><text:span text:style-name="T62">quantity</text:span><text:span text:style-name="T15">:</text:span></text:p>
+   <text:p text:style-name="P18">Less than <text:span text:style-name="T102">2000</text:span> – below average</text:p>
+   <text:p text:style-name="P22">2<text:span text:style-name="T112">2</text:span>00-2<text:span text:style-name="T112">7</text:span>00 – OK</text:p>
+   <text:p text:style-name="P18">2<text:span text:style-name="T112">7</text:span><text:span text:style-name="T102">01</text:span>-3<text:span text:style-name="T112">2</text:span><text:span text:style-name="T102">00</text:span> – decent</text:p>
+   <text:p text:style-name="P18">3<text:span text:style-name="T112">2</text:span><text:span text:style-name="T102">0</text:span>1-3<text:span text:style-name="T112">7</text:span><text:span text:style-name="T102">0</text:span>0 – good</text:p>
+   <text:p text:style-name="P18">3<text:span text:style-name="T112">7</text:span><text:span text:style-name="T102">01</text:span>-<text:span text:style-name="T102">4</text:span><text:span text:style-name="T112">2</text:span><text:span text:style-name="T102">00</text:span> – very good</text:p>
+   <text:p text:style-name="P18"><text:span text:style-name="T102">4</text:span><text:span text:style-name="T112">2</text:span><text:span text:style-name="T102">00</text:span>+ – <text:s/>Extremely good</text:p>
+   <text:p text:style-name="P23">Overall day rating guide</text:p>
+   <text:p text:style-name="P33">:) = Good day</text:p>
+   <text:p text:style-name="P33">:| = Mixed day</text:p>
+   <text:p text:style-name="P24">:( = Bad day</text:p>
+   <text:p text:style-name="P52"><text:span text:style-name="T52">N</text:span><text:span text:style-name="T15">ote reference and outro start below here:</text:span></text:p>
+   <text:h text:style-name="P58" text:outline-level="4">Overnight notes (phone) – last night (for reference)</text:h>
+   <text:p text:style-name="P54">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4">Morning notes (laptop)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4">Morning notes (phone)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4">Afternoon notes (laptop)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4"><text:soft-page-break/>Afternoon notes (phone)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4"><text:span text:style-name="T103">Evening/</text:span>Mid-day notes (laptop)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4"><text:span text:style-name="T103">Evening/</text:span>Mid-day notes (phone)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4">Overnight notes (laptop)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:h text:style-name="P59" text:outline-level="4">Overnight notes (phone)</text:h>
+   <text:p text:style-name="P31">Insert here/None available</text:p>
+   <text:p text:style-name="P44">| Revision note 2022 February 24<text:span text:style-name="T78">th</text:span>: I was going to remove the once per month used template sections, but decided to keep them. <text:span text:style-name="T104">|</text:span></text:p>
+   <text:h text:style-name="P5" text:outline-level="2"><text:bookmark text:name="_End_of_day"/>End of day (outro)</text:h>
+   <text:p text:style-name="P25"><text:span text:style-name="T105">Outro removed on October 1</text:span><text:span text:style-name="T82">st</text:span><text:span text:style-name="T105"> 2020, no longer necessary, as I have my journaling more under control</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T105"><text:s/>(PLEASE READ OUTRO TO LEARN IMPORTANT INFO ABOUT TODAYS DOCUMENT) </text:span><text:span text:style-name="T106">Outro is obsolete. Some references may remain, but you should always read previous documents first. </text:span><text:span text:style-name="T111">Don’t take content out of context.</text:span></text:p>
+   <text:p text:style-name="P26"><text:span text:style-name="T106">A</text:span><text:span text:style-name="T105">lso, make sure to read overnight and daytime notes as well for more context, along with associated dates of new image, video, and other media data, such as screenshots, reddit, </text:span><text:span text:style-name="T107">camera, and more.</text:span></text:p>
+   <text:p text:style-name="P27"><text:span text:style-name="T107">T</text:span><text:span text:style-name="T105">his journal is a very advanced structure, but strives for accuracy.</text:span></text:p>
+   <text:p text:style-name="P28"><text:span text:style-name="T105">Daily journaling started on September 27</text:span><text:span text:style-name="T82">th</text:span><text:span text:style-name="T105"> 2016, entries before then are backed up with date data, and </text:span><text:span text:style-name="T108">don’t cover everything yet, I am still working on archiving older data </text:span><text:span text:style-name="T109">(see: NewtonPad project | Note: not using an actual NewtonPad or an emulated one)</text:span></text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T108">I</text:span><text:span text:style-name="T105">mages aren’t spammed in journaling since the </text:span><text:span text:style-name="T110">December 28</text:span><text:span text:style-name="T83">th</text:span><text:span text:style-name="T110"> 2018 document, as it became excessive. This was the worst issue in December of 2018.</text:span></text:p>
+   <text:p text:style-name="P14">This journal is a complex structure. Make sure to read all documents, notes, and search for mentioned files to get the full context.</text:p>
+   <text:p text:style-name="P15">Outro updates are made at the beginning of each month, so check for updates on the 1<text:span text:style-name="T78">st</text:span>, then you don’t have to read it again for the rest of the month, it will just be there (January 2020 and above) the external outro has been abandoned as of February 18<text:span text:style-name="T78">th</text:span> 2019. </text:p>
+   <text:p text:style-name="P15">Plot holes are very rare. If any come up, I will fill them, as I hate clusters of holes <text:span text:style-name="T104">(trypophobia)</text:span></text:p>
+   <text:p text:style-name="P16">As of 2020, I no longer fully document everything directly in the journal. I link to sources within the resources of the journaling package. When instructed, visit the sources for more info. This is done to save time and reduce document size (before this, documents were on average 20+ pages with over 30 megabytes in size each. The average is now 11-18 pages with less than 2 megabytes.</text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T64">Template version: 202</text:span><text:span text:style-name="T65">4</text:span><text:span text:style-name="T64">.</text:span><text:span text:style-name="T66">1</text:span><text:span text:style-name="T70">1</text:span><text:span text:style-name="T67">.</text:span><text:span text:style-name="T70">30</text:span><text:span text:style-name="T64">@</text:span><text:span text:style-name="T70">15</text:span><text:span text:style-name="T66">:</text:span><text:span text:style-name="T70">4</text:span><text:span text:style-name="T71">5</text:span><text:span text:style-name="T66">:</text:span><text:span text:style-name="T71">49</text:span><text:span text:style-name="T68">P</text:span><text:span text:style-name="T69">M-</text:span><text:span text:style-name="T64">PST</text:span></text:p>
+   <text:p text:style-name="P53"><text:span text:style-name="T34">B</text:span><text:span text:style-name="T15">ig end of year update (the 2024 ultimate update)</text:span></text:p>
+   <text:p text:style-name="P55">Not much, as this is just a template, not a full document</text:p>
+   <text:p text:style-name="P17"><text:soft-page-break/>More daily activities (pills, wake up, laptop boot time, breakfast, pills afternoon, calendar export, Internet Archive Wayback Machine crawls, GitHub finalizations, tab video, bookmark export, file sorting, Daily Desktop Screenshot, system log export, to-do list export, resource/war map downloads, resource/note downloads, game session data,game summary, 7 days of this template, NUNIX ManuType, stationary</text:p>
+   <text:h text:style-name="P1" text:outline-level="1"><text:bookmark text:name="_End_of_today’s"/>End of today’s document</text:h>
+  </office:text>
+ </office:body>
+</office:document>
