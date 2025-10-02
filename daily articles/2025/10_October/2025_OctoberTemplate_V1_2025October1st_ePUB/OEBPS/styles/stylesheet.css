@@ -1,0 +1,252 @@
+.para6 {
+  border-bottom: 1.05pt double #000000;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin:  0px 0px 0px 0px;
+}
+
+.para5 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para4 {
+  margin:  0.0835in 0px 0.0835in 0px;
+}
+
+.para3 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para2 {
+  margin:  0.0000in 0.0000in 0.1110in 0.5000in;
+  text-indent: 0.0000in;
+}
+
+.para1 {
+  margin:  0.0280in 0px 0.0000in 0px;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0000in 0px;
+}
+
+.span29 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span11 {
+  color: #3465a4;
+  font-effect: outline;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span12 {
+  color: #3465a4;
+  font-effect: outline;
+  font-size: 0.58em;
+  font-weight: bold;
+  position: relative;
+  text-shadow: 1px 1px 1px #666666;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span6 {
+  color: #3465a4;
+}
+
+.span8 {
+  color: #3465a4;
+  text-decoration:  underline;
+}
+
+.span5 {
+  background-color: #81d41a;
+  color: #ffffff;
+}
+
+.span14 {
+  background-color: #ffff00;
+  color: #3465a4;
+  font-effect: outline;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span2 {
+  background-color: #ffff00;
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span15 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span7 {
+  color: #3465a4;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span16 {
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span10 {
+  color: #3465a4;
+  font-effect: outline;
+  font-size: 0.58em;
+  position: relative;
+  text-shadow: 1px 1px 1px #666666;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span26 {
+  font-family: 'Franklin Gothic Medium';
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span1 {
+  background-color: #729fcf;
+  color: #2e74b5;
+  font-effect: outline;
+  font-family: 'Calibri Light';
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  text-decoration:  underline;
+  text-shadow: 1px 1px 1px #666666;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span0 {
+  background-color: #729fcf;
+  color: #2e74b5;
+  font-effect: outline;
+  font-family: 'Calibri Light';
+  font-size: 16.0000pt;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span9 {
+  color: #3465a4;
+  font-effect: outline;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span17 {
+}
+
+.span18 {
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span19 {
+  color: #2e74b5;
+  font-family: 'Calibri Light';
+  font-size: 13.0000pt;
+}
+
+.span20 {
+  font-family: 'Liberation Sans';
+  font-size: 95.0000%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.span21 {
+  font-style: italic;
+}
+
+.span27 {
+  font-style: italic;
+  font-weight: normal;
+  text-decoration:  underline;
+}
+
+.span13 {
+  background-color: #ffff00;
+  color: #3465a4;
+  font-effect: outline;
+  text-shadow: 1px 1px 1px #666666;
+}
+
+.span28 {
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: normal;
+  position: relative;
+  text-decoration:  underline;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span3 {
+  background-color: #729fcf;
+  color: #000080;
+  text-decoration:  underline;
+}
+
+.span22 {
+  font-weight: normal;
+}
+
+.span4 {
+  background-color: #729fcf;
+}
+
+.span23 {
+  color: #3465a4;
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span25 {
+  font-size: 0.58em;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  text-decoration:  underline;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span24 {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
